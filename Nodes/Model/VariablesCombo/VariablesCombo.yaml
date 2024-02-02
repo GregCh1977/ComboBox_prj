@@ -1,0 +1,14 @@
+Name: VariablesCombo
+Id: g=ee2821505f20a18c182c096b3291f3e3
+Type: FolderType
+Children:
+- Name: Variable2
+  Id: g=e2cf1382654675715a490ff103c9802d
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 20
+- Name: Variable1
+  Id: g=b7823f30a9f3e271c945a7f617392ed1
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 10

@@ -1,0 +1,8 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: SelectedValueVar
+  Type: BaseDataVariableType
+  DataType: String
+  Value: ""
+- File: VariablesCombo/VariablesCombo.yaml
